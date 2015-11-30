@@ -4,4 +4,4 @@ Meteor handbook
 #Meteor Installation
 a. Open terminal
 
-b. Enter curl http://install.meteor.com/ | sh
+b. Type `curl http://install.meteor.com/ | sh`
